@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Laravel 5.1 installeren op Apache
-comments: true
 ---
+
 Voor een nieuwe klant ben ik me aan het verdiepen in Laravel, een open source web framework geschreven in PHP. Gezien u deze post leest, veronderstel ik dat u
 weet wat Laravel is, waarvoor het dient en waarom u Laravel wil gaan gebruiken. Waarschijnlijk bent u daarentegen op zoek naar een uitleg over de installatie van Laravel. U bent op het goede adres.
 
