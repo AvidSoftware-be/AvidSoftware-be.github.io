@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Dennis Decoene
+#tagline:          'A Jekyll theme'
+#description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://avidsoftware-be.github.io
+baseurl:          /
+
+author:
+  name:           'Dennis Decoene'
+  url:            http://avidsoftware-be.github.io
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/poole/hyde
