@@ -6,6 +6,8 @@ comments: true
 
 Op Github zie je op je profiel een grafiek staan van je activiteit. Met een beetje creativiteit en wat git kennis, zou je die grafiek kunnen manipuleren dacht ik zo.
 
+![Github Graph](/public/GithubGraph.png "Github Graph")
+
 Als je volgende commando's uitvoert op een 'nix terminal, zal je een commit maken in een repo die eigenlijk geen commit is. Het zal wel geregistreerd worden
 in de grafiek:
 {% highlight bash %}
