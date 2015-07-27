@@ -18,8 +18,17 @@ om de timeout van nginx op 600 seconden te zetten. Anders krijg je tijdens een l
 #phpStorm instellen
 1. open je project in phpStorm
 2. open de 'preferences'
-3. navigeer naar ```Languages & Frameworks``, 'PHP', 'Servers'.
-4. Maak een nieuwe server aan.
+3. navigeer naar `Languages & Frameworks`, `PHP`, `Servers`.
+4. Maak een nieuwe server aan., volg even mee hieronder:
+    ![Server aanmaken](/public/phpstormserversinstellen.gif "Server aanmaken")
+    Je moet dus het vinkje `Use path mappings` aan zetten en de mapping maken tussen de vagrant/homestead mapstructuur en de structuur op je mac. 
+5. open het menu `Run` en kies `Edit configurations`
+    Geef het een naam en kies de server die je hierboven hebt gemaakt.
+    
+-> Happy debugging!    
+
+
+
 
 
 
